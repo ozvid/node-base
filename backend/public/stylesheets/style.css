@@ -1,0 +1,21 @@
+/*
+@copyright : OZVID Technologies Pvt. Ltd. < www.ozvid.com >
+@author     : Shiv Charan Panjeta < shiv@ozvid.com >
+ 
+All Rights Reserved.
+Proprietary and confidential :  All information contained herein is, and remains
+the property of OZVID Technologies Pvt. Ltd. and its partners.
+Unauthorized copying of this file, via any medium is strictly prohibited.
+*/
+
+/**
+ * common css.
+ */
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
